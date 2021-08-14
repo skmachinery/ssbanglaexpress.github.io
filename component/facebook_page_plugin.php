@@ -1,0 +1,3 @@
+<div class="fb-page" data-href="https://www.facebook.com/Banglaexpress1" data-tabs="Page Timeline" data-width="600" data-height="200" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+    <blockquote cite="https://www.facebook.com/Banglaexpress1" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Banglaexpress1">SS Bangla Express</a></blockquote>
+</div>
